@@ -10,9 +10,9 @@
 #include <freertos/queue.h>
 
 // --- Wi-Fi configuration ---
-const char* ssid = "*******";
-const char* password = "*******";
-const char* flux_url = "https://api.soracom.io/v1/flux/incoming_webhooks/*************/**************";
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
+const char* flux_url = "YOUR_API_ENDPOINT";
 
 // --- OLED configuration ---
 #define SCREEN_WIDTH 128
