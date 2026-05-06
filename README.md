@@ -1,6 +1,8 @@
 # Dokidoki AI Heartbeat Detector
 
-A playful heartbeat detection device using an mmWave radar sensor, with OLED/LCD display, LED feedback, and AI-based “dokidoki” judgment.
+A playful heartbeat detection device using an mmWave radar module, with OLED/LCD display, LED feedback, and AI-based “dokidoki” judgment.
+
+<img width="557" height="443" alt="dokidoki_detector" src="https://github.com/user-attachments/assets/b38fd5c5-6249-427b-9d59-0adfc1cd17da" />
 
 ## Features
 - Heart rate and breathing rate measurement using an mmWave radar sensor
@@ -10,8 +12,7 @@ A playful heartbeat detection device using an mmWave radar sensor, with OLED/LCD
 - AI-generated “dokidoki” judgment message
 
 ## Hardware
-- Seeed Studio XIAO ESP32
-- mmWave radar module
+- [XIAO 60GHz mmWave Human Breathing and Heartbeat Sensor -MR60BHA2](https://jp.seeedstudio.com/MR60BHA2-60GHz-mmWave-Sensor-Breathing-and-Heartbeat-Module-p-5945.html)
 - OLED/LCD display
 - LED / button / switch
 - DC-DC converter
