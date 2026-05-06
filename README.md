@@ -23,5 +23,13 @@ A playful heartbeat detection device using an mmWave radar sensor, with OLED/LCD
 - LED control task (heartbeat sync)
 - Data buffer and FreeRTOS queue
 
+## Dependencies
+- Seeed Arduino mmWave Library
+- Adafruit GFX / SSD1306
+- ESP32 Arduino Core (WiFi, HTTPClient)
+- FreeRTOS (built-in)
+
+Each library is subject to its own license.
+
 ## License
 MIT
